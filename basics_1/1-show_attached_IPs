@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ip show -4 addr                # shows IPv4 addresses only
+ip  -4 addr show              # shows IPv4 addresses only
